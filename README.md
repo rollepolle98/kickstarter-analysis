@@ -17,12 +17,15 @@ I performed my analysis using a combination tools such as filtering through main
 
 First conclusion I can draw about outcomes based on launch date would be that April - June is a time frame where crowdfunding theatre/play would be the most succesful with the peak being in the month of June. Second conclusions would be that the worst time for a crowdfunding theatre/play would be around October because thats when the most campaigns fail according to the data.
 
+![](images/Theater_Outcomes_vs_Launch.png) 
+
 ### Analysis of Outcomes Based on Goals
 
 - What can you conclude about the Outcomes based on Goals?
 
 The main conclusion that can be made based on the "Outcomes based of Goals" data would be that most campaigns with lower goals have the tendency to succeed where as the campaigns with larger goals have a lower tendency to succeed. While there are some excpetions to this statment, for the most part as the goals increase, success decreases and as goals decrease, success increases showing a negative correlation.
 
+![](images/Outcomes_vs_goals.png) 
 ### Challenges and Difficulties Encountered
 
 The main challenge and difficult was Deliverable 2 , for some reason whenever I tried to poluate the line chart using the data I had, it simply was not working. After watching the video in the module over and over and using some GOOGLE-FU. I realized I had to manually input the "$" for =COUNTIFS(KickstarterDataCopy!$D:$D,"<1000" which I believe solved my problem.
